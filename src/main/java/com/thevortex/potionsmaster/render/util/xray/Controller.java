@@ -58,7 +58,7 @@ public class Controller {
 	}
 
 	public static int getRadius() {
-		return distanceList[2];
+		return 512;
 	}
 
 	public static void incrementCurrentDist() {
